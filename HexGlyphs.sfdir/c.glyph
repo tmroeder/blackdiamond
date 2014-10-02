@@ -1,0 +1,23 @@
+StartChar: c
+Encoding: 99 99 18
+Width: 900
+VWidth: 0
+Flags: HW
+HStem: 365 70<135 665> 780 20G<380 420>
+LayerCount: 2
+Fore
+SplineSet
+85 365 m 1
+ 50 400 l 1
+ 85 435 l 1
+ 450 800 l 1
+ 815 435 l 1
+ 850 400 l 1
+ 815 365 l 1
+ 85 365 l 1
+185 435 m 1
+ 715 435 l 1
+ 450 700 l 1
+ 185 435 l 1
+EndSplineSet
+EndChar
