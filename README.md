@@ -1,8 +1,7 @@
 BlackDiamond
 ============
 
-BlackDiamond is a font for hexadecimal numbers. It contains symbols only for the
-digits and for `[a-zA-Z]`, as well as the colon.
+BlackDiamond is a font for hexadecimal numbers. It contains symbols only for `[0-9a-fA-F:]`.
 
 To build a TrueType font file called `BlackDiamond.ttf` using
 [FontForge](http://fontforge.sf.net), run the build script under FontForge.
