@@ -1,0 +1,55 @@
+SplineFontDB: 3.0
+FontName: BlackDiamond
+FullName: BlackDiamond
+FamilyName: BlackDiamond
+Weight: Black
+Copyright: Copyright Tom Roeder (tmroeder@gmail.com) with FontForge 2.0 (http://fontforge.sf.net). Licensed under the Apache 2.0 License (http://www.apache.org/licenses/LICENSE-2.0).
+UComments: "2014-2-11: Created." 
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -99.6094
+UnderlineWidth: 49.8047
+Ascent: 800
+Descent: 200
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+XUID: [1021 145 319069243 8382024]
+FSType: 8
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1392184026
+ModificationTime: 1412100966
+PfmFamily: 17
+TTFWeight: 900
+TTFWidth: 5
+LineGap: 90
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -24
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 27 27 9
+BeginPrivate: 0
+EndPrivate
+EndSplineFont
